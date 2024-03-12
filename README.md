@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">Developer Bek Tnam</h3>
-![Uploading programming-coding-digital-marketing-b63zccx04i4luhh9.gif…]()
+
+![programming-coding-digital-marketing-b63zccx04i4luhh9](https://github.com/ONSOBEN/ONSOBEN/assets/135130101/1615b076-cc5f-49bd-b242-1f64545076ff)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
